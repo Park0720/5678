@@ -3,7 +3,7 @@
 ![근무시간등록](https://github.com/user-attachments/assets/201676b1-ab4b-4e7d-bef8-28dfee7aa0ff)
 ![상담사근무예외시간관리](https://github.com/user-attachments/assets/e060ae90-8d7e-4f20-bfb9-27f186b68f61)
 ![상담사조회및예약](https://github.com/user-attachments/assets/440db8ba-2e0a-4ae4-829f-ee88f0bc84bd)
-![리뷰및채  팅](https://github.com/user-attachments/assets/f34b32dd-73cb-44d7-9bc1-234bb82b1ffa)
+![리뷰및채팅](https://github.com/user-attachments/assets/f34b32dd-73cb-44d7-9bc1-234bb82b1ffa)
 ![상담상품등록](https://github.com/user-attachments/assets/20719f77-f4b7-4db1-af68-b8a6e69c468a)
 
 https://github.com/user-attachments/assets/28e03c19-2532-4916-bb93-ef307f217377
@@ -24,3 +24,8 @@ https://github.com/user-attachments/assets/0e913845-414c-410f-add7-91b133065870
 ![일기API](https://github.com/user-attachments/assets/e9b135d1-cfa8-4aa9-ac38-3baddf72ba54)
 ![게시판API](https://github.com/user-attachments/assets/1d050f69-29a3-42f8-9ab7-e9231b6704b2)
 ![알림API](https://github.com/user-attachments/assets/b79c0c8e-ff6d-4b0b-9ae5-8f1ddcdd4fe1)
+![image (5)](https://github.com/user-attachments/assets/33420b65-4a55-42e1-a131-f92f9b4cb957)
+![image (4)](https://github.com/user-attachments/assets/0ce71a2e-a5b5-4bfa-8a68-cdc837325f3e)
+![image (6)](https://github.com/user-attachments/assets/27880fa0-98d1-4969-8171-ab8db3ccc067)
+![image (7)](https://github.com/user-attachments/assets/acbe075d-19da-41ff-8550-721ce4ee7bde)
+![image (8)](https://github.com/user-attachments/assets/dfd665f8-d101-4286-af57-3c565307b23a)
